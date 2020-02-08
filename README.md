@@ -3,7 +3,7 @@ LC filter board PCB designs.
 
 Allows for a wide variety of LC filters (up to 5-pole) to be rapidly prototyped.  
 
-Capacitors pads are 0805.  
+Capacitor pads are 0805.  
 
 Inductors pads are custom pads that allow any of the following to be installed:  
 [Coilcraft 1812LS](https://www.coilcraft.com/1812ls.cfm) - Ferrite core chip inductors 12-1000uH  
